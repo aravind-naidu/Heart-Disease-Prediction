@@ -1,4 +1,5 @@
 # Heart Disease Detection
+### Ensemble Stacking Solution for Heart Disease Detection
 ### About the Data set
 
 This dataset gives the information realated to heart disease. Dataset contain 13 columns, target is the class variable which is affected by other 12 columns. Here the aim is to classify the target variable to (disease\non disease) using different machine learning algorithm and findout which algorithm suitable for this dataset.
@@ -11,9 +12,9 @@ This dataset gives the information realated to heart disease. Dataset contain 13
 * K-Nearest Neighbour
 * Support Vector Machine
 
-[**Ensemle Stacking Solution Notebook**]()    
+[**Ensemle Stacking Solution Notebook**](https://github.com/aravind-naidu/Heart-Disease-Prediction/blob/main/Heart_Disease-Ensemble_Model.ipynb)    
 
-Also, if you like the solution do upvote my solution on Kaggle here: [**Ensemble + Hyperparams Tuning on Kaggle**]()
+Also, if you like the solution do upvote my solution on Kaggle here: [**Ensemble + Hyperparams Tuning on Kaggle**](https://www.kaggle.com/aravindnaidu/ensemble-hyperparams-tuning)
 
 ### Features Information:
 
